@@ -1,4 +1,4 @@
-[alt text]("image.jpeg")
+![alt text](image.jpeg)
 
 # Análise de Dados e Modelagem de Preços de Imóveis
 

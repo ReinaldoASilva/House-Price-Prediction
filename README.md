@@ -2,13 +2,13 @@
 
 # Análise de Dados e Modelagem de Preços de Imóveis
 
-Este projeto tem como objetivo realizar uma análise de dados e construir um modelo de regressão linear para prever os preços de imóveis com base em diversas variáveis. A análise e modelagem foram conduzidas utilizando a linguagem de programação Python e as bibliotecas, Pandas, NumPy, Matplotlib e Seaborn, além do uso do scikit-learn para construir o modelo de regressão.
+* Este projeto tem como objetivo realizar uma análise de dados e construir um modelo de regressão linear para prever os preços de imóveis com base em diversas variáveis. A análise e modelagem foram conduzidas utilizando a linguagem de programação Python e as bibliotecas, Pandas, NumPy, Matplotlib e Seaborn, além do uso do scikit-learn para construir o modelo de regressão.
 
-Conjunto de Dados
+### Dataset
 
-O dataframe usado contém as seguintes colunas:
+#### O dataframe usado contém as seguintes colunas:
 
-id: Identificador único para cada casa.
+* id: Identificador único para cada casa.
 date: Data da venda da casa.
 price: Preço de venda da casa.
 bedrooms: Número de quartos.

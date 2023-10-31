@@ -1,6 +1,6 @@
 [alt text]("image.jpeg")
 
-README - Análise de Dados e Modelagem de Preços de Imóveis
+# Análise de Dados e Modelagem de Preços de Imóveis
 
 Este projeto tem como objetivo realizar uma análise de dados e construir um modelo de regressão linear para prever os preços de imóveis com base em diversas variáveis. A análise e modelagem foram conduzidas utilizando a linguagem de programação Python e as bibliotecas, Pandas, NumPy, Matplotlib e Seaborn, além do uso do scikit-learn para construir o modelo de regressão.
 
